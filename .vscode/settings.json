@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/c917dd6a-978c-42fa-abfd-1e9953df0940/resourceGroups/AzureAke/providers/Microsoft.Web/sites/AzureByAke",
+  "appService.deploySubpath": "."
+}
